@@ -1,0 +1,8 @@
+tensorflow
+mlflow
+streamlit
+streamlit-drawable-canvas
+opencv-python-headless
+scikit-learn
+numpy
+Pillow
